@@ -4,7 +4,7 @@ Repositorio de soporte al cursado de ISW 2023 - Segundo Cuatrimestre
 Integrantes: 
 + Yamili Yarbouh - 81841 - yamiliyarbouh@gmail.com
 + Daysi Camargo - 84200 - daysicamargo19@gmail.com  
-+ Gonzalo Albarracin - 68719 - galbarracin16@gmail.com
++ Gonzalo Albarracin - 68719 - galbarracin16@gmail.com.
 +
 +
 +
